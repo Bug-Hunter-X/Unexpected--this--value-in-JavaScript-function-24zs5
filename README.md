@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error involving the unexpected value of the 'this' keyword. The bug.js file contains a function where the value of 'this' is not what is expected, and the bugSolution.js file shows how to fix this using techniques like binding 'this' with bind(), arrow functions, or storing 'this' in a variable.
